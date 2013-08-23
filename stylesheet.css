@@ -4,18 +4,18 @@
 }
 
 .cell{
-	background-color: black;
+	background-color: #005924;
 	float: left;
 	width: 10px;
 	height: 10px;
 }
 
 .snake{
-	background-color: blue;
+	background-color: #D2B48C;
 }
 
 .apple{
-	background-color: red;
+	background-color: #C80815;
 }
 
 .info{
