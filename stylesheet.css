@@ -1,0 +1,26 @@
+.row{
+	width: 1000px;
+	height: 10px;
+}
+
+.cell{
+	background-color: black;
+	float: left;
+	width: 10px;
+	height: 10px;
+}
+
+.snake{
+	background-color: blue;
+}
+
+.apple{
+	background-color: red;
+}
+
+.info{
+	width:1000px;
+	font-size: 48;
+	color: red;
+	text-align: center;
+}
